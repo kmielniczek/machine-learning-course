@@ -4,3 +4,9 @@ matplotlib
 scikit-learn
 pydot
 cvxopt
+nltk
+seaborn
+spacy
+textblob
+jellyfish
+pytypo
